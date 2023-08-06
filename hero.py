@@ -32,3 +32,5 @@ hero.info()
 
 catchphrase_length = hero.length_catchphrase()
 print("Length of catchphrase:", catchphrase_length)
+
+print()
