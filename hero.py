@@ -100,4 +100,4 @@ class Villain(AirHero):
         return self.damage ** degree
 
 
-villain = Villain("Dark Matter", "Voidbringer", "Dark energy manipulation", 250, "Into the shadows", "Unknown", 50)
+
