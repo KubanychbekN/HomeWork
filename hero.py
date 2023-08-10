@@ -90,7 +90,7 @@ print(earthero.fly_phrase())
 
 print('-----------------')
 
-class Villain(AirHero):
+class :
     people = "Monster"
 
     def gen_x(self):
