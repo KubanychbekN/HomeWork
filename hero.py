@@ -90,14 +90,14 @@ print(earthero.fly_phrase())
 
 print('-----------------')
 
-class :
-    people = "Monster"
+#class :
+    #people = "Monster"
 
-    def gen_x(self):
-        pass
+    #def gen_x(self):
+        #pass
 
-    def crit(self,degree):
-        return self.damage ** degree
+    #def crit(self,degree):
+        #return self.damage ** degree
 
 
 
